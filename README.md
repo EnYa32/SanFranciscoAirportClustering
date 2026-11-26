@@ -56,6 +56,25 @@ Groups airlines according to their total recorded passenger volume.
 
 ## 📊 Data Visualization
 
+### 1. Passenger Traffic Heatmap
+
+Monthly passenger traffic patterns at San Francisco International Airport.
+
+![Passenger Traffic Heatmap](images/passenger_heatmap.png)
+
+### 2. K-Means Cluster Visualization
+
+Two-dimensional PCA visualization of passenger activity clusters.
+
+![K-Means PCA Clusters](images/kmeans_pca_clusters.png)
+
+### 3. Clustering Model Comparison
+
+Silhouette Scores for the three K-Means clustering approaches.
+
+![Clustering Model Comparison](images/clustering_model_comparison.png)
+
+
 The analysis includes:
 
 - Monthly passenger traffic trends
