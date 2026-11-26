@@ -92,13 +92,13 @@ This project explores passenger traffic and airline activity at San Francisco In
 
 An introduction to the main questions explored in this project.
 
-![Projektübersicht](Bilder/linkedin_project_overview.png)
+![Projektübersicht](https://github.com/EnYa32/SanFranciscoAirportClustering/blob/main/Bilder/linkedin_project_overview.png?raw=true)
 
 ### 2. When Is San Francisco Airport Busiest?
 
 The analysis shows that August has the highest average passenger traffic in the dataset, at approximately 4.1 million passengers.
 
-![Monatliches Passagieraufkommen](Bilder/linkedin_passenger_insights.png)
+![Monatliches Passagieraufkommen](https://github.com/EnYa32/SanFranciscoAirportClustering/blob/main/Bilder/linkedin_passenger_insights.png?raw=true)
 
 ### 3. How Machine Learning Groups Airlines
 
@@ -110,7 +110,7 @@ K-Means clustering identified three groups based on recorded passenger volumes:
 
 These figures represent passenger volumes across the dataset period, not annual passenger totals.
 
-![Airline Clustering](Bilder/airline_clustering_linkedin.png)
+![Airline Clustering](https://github.com/EnYa32/SanFranciscoAirportClustering/blob/main/Bilder/airline_clustering_linkedin.png?raw=true)
 
 ---
 
