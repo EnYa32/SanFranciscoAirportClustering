@@ -83,6 +83,42 @@ The analysis includes:
 - Airline activity and passenger rankings
 - Elbow Method charts
 
+
+## ✈️ Project Highlights
+
+This project explores passenger traffic and airline activity at San Francisco International Airport using Python, data analysis, and K-Means clustering.
+
+### 1. Project Overview
+
+An introduction to the main questions explored in this project.
+
+![Project Overview](images/airport_project_overview.png)
+
+### 2. When Is San Francisco Airport Busiest?
+
+The analysis shows that August has the highest average passenger traffic in the dataset, at approximately 4.1 million passengers.
+
+![Monthly Passenger Traffic](images/airport_busiest_month.png)
+
+### 3. How Machine Learning Groups Airlines
+
+K-Means clustering identified three groups based on recorded passenger volumes:
+
+- **77 airlines:** Lower passenger traffic, averaging 2.0 million passengers.
+- **5 airlines:** Medium passenger traffic, averaging 38.9 million passengers.
+- **1 airline:** Higher passenger traffic, with 218.0 million passengers.
+
+These figures represent passenger volumes across the dataset period, not annual passenger totals.
+
+![Airline Clustering](images/airline_clustering_linkedin.png)
+
+---
+
+## 🔬 Technical Analysis
+
+The Jupyter Notebook contains the detailed data analysis, clustering models, evaluation metrics, and additional visualizations.
+
+
 ## 📁 Repository Structure
 
 ```text
